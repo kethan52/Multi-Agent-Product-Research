@@ -1,0 +1,6 @@
+streamlit
+crewai
+openai
+requests
+beautifulsoup4
+pyyaml
