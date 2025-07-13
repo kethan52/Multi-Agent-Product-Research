@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## 🚀 Demo Video
 
-![Product Demo](assets\demo.gif)
+![Product Demo](assets/demo.gif)
 
 ## ✨ About the Project
 
@@ -49,7 +49,6 @@ The agents use a `web_search_tool` to gather information from the internet, simu
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/kethan52/Multi-Agent-Product-Research.git](https://github.com/kethan52/Multi-Agent-Product-Research.git)
-    cd your-project-name
     ```
 
 2.  **Create and activate a virtual environment:**
