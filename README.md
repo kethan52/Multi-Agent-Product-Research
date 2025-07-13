@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## 🚀 Demo Video
 
-![Product Demo](crew\assets\demo.gif)
+![Product Demo](assets\demo.gif)
 
 ## ✨ About the Project
 
@@ -48,7 +48,7 @@ The agents use a `web_search_tool` to gather information from the internet, simu
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/your-project-name.git](https://github.com/YOUR_USERNAME/your-project-name.git)
+    git clone [https://github.com/kethan52/Multi-Agent-Product-Research.git](https://github.com/kethan52/Multi-Agent-Product-Research.git)
     cd your-project-name
     ```
 
@@ -105,5 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * [CrewAI](https://www.crewai.com/)
 * [Streamlit](https://streamlit.io/)
-* [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai/openai-service)
 * [DuckDuckGo Search API](https://duckduckgo.com/api)
